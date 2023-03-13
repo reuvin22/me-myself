@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/me-myself/static/css/main.1f798e4b.css",
+    "main.js": "/me-myself/static/js/main.42a27ef6.js",
+    "static/js/787.9b06cee2.chunk.js": "/me-myself/static/js/787.9b06cee2.chunk.js",
+    "static/media/H.Reuvin.pdf": "/me-myself/static/media/H.Reuvin.752a3e09119712add61b.pdf",
+    "index.html": "/me-myself/index.html",
+    "main.1f798e4b.css.map": "/me-myself/static/css/main.1f798e4b.css.map",
+    "main.42a27ef6.js.map": "/me-myself/static/js/main.42a27ef6.js.map",
+    "787.9b06cee2.chunk.js.map": "/me-myself/static/js/787.9b06cee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f798e4b.css",
+    "static/js/main.42a27ef6.js"
+  ]
+}
